@@ -51,7 +51,6 @@ Here are some ideas to get you started:
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/node.svg" />
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/vscode.svg" />
   <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/github.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/php.svg" />
  
 </p>
 
