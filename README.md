@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 🌱  - Estou atualmente me aprofundando em Java e JavaScript. <br>
 💻    - Apaixonado pela área de Tecnologia e programação. <br>
 🚀    - Sempre buscando aprender e desenvolver novas habilidades. <br>
-🪂    - Ex-militar da Força Aérea Brasileira. <br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nando-cezar&show_icons=true&title_color=FF1493&icon_color=79ff97&text_color=40E0D0&bg_color=151515" align="center"/>
