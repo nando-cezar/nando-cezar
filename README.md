@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 🪂    - Ex-militar da Força Aérea Brasileira. <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DiegojSts&show_icons=true&title_color=FF1493&icon_color=79ff97&text_color=40E0D0&bg_color=151515" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nando-cezar&show_icons=true&title_color=FF1493&icon_color=79ff97&text_color=40E0D0&bg_color=151515" align="center"/>
 <a href="https://github.com/nando-cezar">
   <img height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nando-cezar&theme=radical&hide=glsl,python" />
 </a>
