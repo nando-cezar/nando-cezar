@@ -2,7 +2,7 @@
 <p align="center">Olá, Sou Luís Fernando Cezar dos Santos. Bem vindo! 😀 </p>
 <hr>
 <p align="center">
-<img width="35%" align="center" alt="Github" src="https://github.com/DiegojSts/assets/blob/main/toygif-unscreen.gif" />
+<img width="35%" align="center" alt="Github" src="https://media.giphy.com/media/zUfEzfngyKhYoS1LP6/giphy.gif" />
 </p>
 <p align="center"><b>Sou Luís Fernando, técnico em Redes de Computadores, Eletrônica e Desenvolvimento de Sistemas e um eterno aprendiz 📚.</b></p>
 
@@ -41,16 +41,20 @@ Here are some ideas to get you started:
 <p align="center"><b>Linguagens e Tecnologias de Interesse</b></p>
 
 <p align="center">
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/javascript.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/css.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/html.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/git.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/java.svg" /> <br>
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/ts.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/mysql.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/node.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/vscode.svg" />
-  <img height="22px" src="https://github.com/DiegojSts/assets/blob/main/github.svg" />
+   
+ <!--JavaScript--> <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
+ <!--CSS--> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
+ <!--HMTL--> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <!--React--> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+ <!--TypeScript--> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black"/>
+ <!--Java--> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java"/>
+ <!--Node--> <img src="https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+ <!--MySql--> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <!--Git--> <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
+ <!--GitHub--> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
+ <!--VsCode--> <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+ <!--VsCode--> <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+ <!--Spring--> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
  
 </p>
 
@@ -64,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lu%C3%ADs-fernando-cezar-dos-santos-6a329b19b/">
-  <img align="center" alt="Luís Fernando Cezar dos Santos| Linkedin" width="100px" src="https://github.com/DiegojSts/assets/blob/main/linkedin.svg" />
+  <img align="center" alt="Luís Fernando Cezar dos Santos | Linkedin" width="100px" src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
   </p>
  
