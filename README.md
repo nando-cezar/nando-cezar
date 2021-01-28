@@ -2,7 +2,7 @@
 <p align="center">Olá, Sou Luís Fernando Cezar dos Santos. Bem vindo! 😀 </p>
 <hr>
 <p align="center">
-<img width="35%" align="center" alt="Github" src="https://media.giphy.com/media/zUfEzfngyKhYoS1LP6/giphy.gif" />
+<img width="35%" align="center" alt="Github" src="https://drive.google.com/file/d/1vqdS5dvsyqR40uNItRZ6KoIm32TXB1rr/view?usp=sharing" />
 </p>
 <p align="center"><b>Sou Luís Fernando, técnico em Redes de Computadores, Eletrônica e Desenvolvimento de Sistemas e um eterno aprendiz 📚.</b></p>
 
