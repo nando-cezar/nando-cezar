@@ -1,12 +1,12 @@
 <hr>
-<p align="center">Olá, Sou Luís Fernando Cezar dos Santos. Bem vindo! 😀 </p>
+<p align="center">Hello, I'm Luís Fernando Cezar dos Santos. Welcome! 😀 </p>
 <hr>
 <p align="center">
 <img width="100%" align="center" alt="Github" src="https://raw.githubusercontent.com/nando-cezar/repository-img/master/Gif_Title.gif" />
 </p>
-<p align="center"><b>Sou Luís Fernando, técnico em Redes de Computadores, Eletrônica e Desenvolvimento de Sistemas e um eterno aprendiz 📚.</b></p>
+<p align="center"><b>I am a software developer, with knowledge in C, JAVA and TYPESCRIPT language and a lifelong learner 📚.</b></p>
 
-''Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz''. <br> <p align="right"> - Bill Gates </p>
+''Try once, twice, three times and if possible try the fourth, fifth and as many times as necessary. Just don't give up on the first few attempts, persistence is a friend of achievement. If you want to get where most don't, do what most don't.''. <br> <p align="right"> - Bill Gates </p>
 
 <!--
 *nando-cezar/nando-cezar* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details>
-  <summary> <b> Sobre mim </b> <i>(click para expandir!)</i> </summary> <br>
+  <summary> <b> About me </b> <i>(click para expandir!)</i> </summary> <br>
   
-🌱  - Estou atualmente me aprofundando em Java e JavaScript. <br>
-💻    - Apaixonado pela área de Tecnologia e programação. <br>
-🚀    - Sempre buscando aprender e desenvolver novas habilidades. <br>
+🌱    - I am currently developing projects in the PEGA system, having application in JAVA and TYPESCRIPT languages. <br>
+💻    - Passionate about technology and programming. <br>
+🚀    - Always looking to learn and develop new skills. <br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nando-cezar&show_icons=true&title_color=FF1493&icon_color=79ff97&text_color=40E0D0&bg_color=151515" align="center"/>
@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-<p align="center"><b> Autor </b></p>
+<p align="center"><b> Author </b></p>
 
 <p align="center"> Luís Fernando Cezar dos Santos </p>
 <hr>
 
-<p align="center"><b>Gostou? Entre em contato 😀</b></p>
+<p align="center"><b> Liked? Contact 😀</b></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lu%C3%ADs-fernando-cezar-dos-santos-6a329b19b/">
