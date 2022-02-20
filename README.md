@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
  
 <summary><b>Stats Details</b></summary>
-<p align="center"><img height="180em" width="100wv" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
+<p align="center"><img height="180em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
  
 <summary><b>Languages Details</b></summary>
 <p align="center"><img height="180em" width="100wv" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
