@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </br> 4d15de
 
 <summary><b>Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Nando Cezar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0D1117&color=42f54e&line=42f54e&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Nando Cezar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0D1117&color=3cfa7e&line=3cfa7e&point=FFFFFF&hide_border=true&" /></a></p>
 
 <p align="center"><b>Languages and Technologies</b></p>
 
