@@ -23,22 +23,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details>
-  <summary> <b> About me </b> <i>(click para expandir!)</i> </summary> <br>
+  <summary> <b> About me </b> <i>(click to expand!)</i> </summary> <br>
   
 🌱    - I am currently developing projects in the PEGA system, having application in JAVA and TYPESCRIPT languages. <br>
 💻    - Passionate about technology and programming. <br>
 🚀    - Always looking to learn and develop new skills. <br>
 
+ 
+<summary><b>Stats Details</b></summary>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nando-cezar&show_icons=true&title_color=FF1493&icon_color=79ff97&text_color=40E0D0&bg_color=151515" align="center"/>
 <a href="https://github.com/nando-cezar">
-  <img height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nando-cezar&theme=radical&hide=glsl,python" />
+  <img height="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nando-cezar&theme=radical&hide=glsl,python" />
 </a>
 </p>
  
+</br>
+  
+<summary><b>Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TopCodeBeast&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
+  
+</br>
 
+<summary><b>Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Nando Cezar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
-<p align="center"><b>Linguagens e Tecnologias de Interesse</b></p>
+<p align="center"><b>Languages and Technologies</b></p>
 
 <p align="center">
    
@@ -48,12 +58,10 @@ Here are some ideas to get you started:
  <!--React--> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
  <!--TypeScript--> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black"/>
  <!--Java--> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java"/>
- <!--Node--> <img src="https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
  <!--MySql--> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
  <!--Git--> <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
  <!--GitHub--> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
  <!--VsCode--> <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
- <!--VsCode--> <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
  <!--Spring--> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
  
 </p>
