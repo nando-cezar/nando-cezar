@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details>
-  <summary> <b> About me </b> <i>(click to expand!)</i> </summary> <br>
+ <summary> <b> About me </b> <i>(click to expand!)</i> </summary> <br>
   
 🌱    - I am currently developing projects in the PEGA system, having application in JAVA and TYPESCRIPT languages. <br>
 💻    - Passionate about technology and programming. <br>
@@ -34,16 +34,13 @@ Here are some ideas to get you started:
   
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nando-cezar&hide_border=true&count_private=true&show_icons=true&theme=dark" alt="nando-cezar" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nando-cezar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="nando-cezar" align = "center"/></p>
- 
-</br>
   
 <summary><b>Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
-  
-</br> 4d15de
+
 
 <summary><b>Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Nando Cezar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0D1117&color=3cfa7e&line=3cfa7e&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"><a href="#"><img alt="Nando Cezar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0D1117&color=3cfa7e&line=3cfa7e&point=FFFFFF&hide_border=true&" /></a></p>
 
 <p align="center"><b>Languages and Technologies</b></p>
 
