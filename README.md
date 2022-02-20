@@ -31,20 +31,19 @@ Here are some ideas to get you started:
 
  
 <summary><b>Stats Details</b></summary>
-<p align="center"><img height="500em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
+<p align="center"><img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
  
 <summary><b>Languages Details</b></summary>
-<p align="right"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
-<p align="left"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
+<p align="right"><img  height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
+<p align="left"><img   height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
   
 <summary><b>Profile Details</b></summary>
-<p align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
+<p align="center"><img  height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
 
 <summary><b>Commits Details</b></summary>
-<p align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
+<p align="center"><img  height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
 
-<summary><b>Contribution Graph</b></summary>
-<p align="center"><img width="100%" src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0D1117&color=3cfa7e&line=3cfa7e&point=FFFFFF&hide_border=true&" alt="nando-cezar" align = "center"/></p>
+<summary><b>Contribution Graph</b>< height="250em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0D1117&color=3cfa7e&line=3cfa7e&point=FFFFFF&hide_border=true&" alt="nando-cezar" align = "center"/></p>
 
 <p align="center"><b>Languages and Technologies</b></p>
 
