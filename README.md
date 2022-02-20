@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </br>
   
 <summary><b>Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TopCodeBeast&theme=github_dark" alt="TopCodeBeast" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
   
 </br>
 
