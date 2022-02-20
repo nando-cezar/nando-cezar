@@ -31,18 +31,19 @@ Here are some ideas to get you started:
 
  
 <summary><b>Stats Details</b></summary>
-<p align="center"><img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=nando-cezar&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="nando-cezar" align = "center"/>
-<img height="180em"  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nando-cezar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="nando-cezar" align = "center"/></p>
+  
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nando-cezar&hide_border=true&count_private=true&show_icons=true&theme=dark" alt="nando-cezar" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nando-cezar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="nando-cezar" align = "center"/></p>
  
 </br>
   
 <summary><b>Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
   
-</br>
+</br> 4d15de
 
 <summary><b>Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Nando Cezar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Nando Cezar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0D1117&color=42f54e&line=42f54e&point=FFFFFF&hide_border=true&" /></a></p>
 
 <p align="center"><b>Languages and Technologies</b></p>
 
