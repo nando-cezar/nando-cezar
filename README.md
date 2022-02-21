@@ -29,24 +29,21 @@ Here are some ideas to get you started:
 💻    - Passionate about technology and programming. <br>
 🚀    - Always looking to learn and develop new skills. <br>
 
- 
-<summary><b>Stats Details</b></summary>
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/>
- 
-<summary><b>Languages Details</b></summary>
+<summary><b>Stats and Languages Details</b></summary>
 <p align="center">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nando-cezar&theme=github_dark" alt="nando-cezar"/>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nando-cezar&theme=github_dark" alt="nando-cezar"/>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nando-cezar&theme=github_dark" alt="nando-cezar"/>
 </p>
 
-<summary><b>Profile Details</b></summary>
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/>
-
-<summary><b>Commits Details</b></summary>
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nando-cezar&theme=github_dark" alt="nando-cezar" align = "center"/></p>
+<summary><b>Profile and Commits Details</b></summary>
+<p align="center">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nando-cezar&theme=github_dark" alt="nando-cezar"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nando-cezar&theme=github_dark" alt="nando-cezar"/>
+ </p>
 
 <summary><b>Contribution Graph</b></summary>
-<img src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0D1117&color=3cfa7e&line=3cfa7e&point=FFFFFF&hide_border=true&" alt="nando-cezar" align = "center"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=848487&color=606063&line=3cfa7e&point=FFFFFF&hide_border=true&" alt="nando-cezar"/>
 
 <p align="center"><b>Languages and Technologies</b></p>
 
