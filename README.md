@@ -43,9 +43,9 @@ Here are some ideas to get you started:
  </p>
 
 <summary><b>Contribution Graph</b></summary>
-<img src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=848487&color=606063&line=3cfa7e&point=FFFFFF&hide_border=true&" alt="nando-cezar"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=606063&color=848487&line=606063&point=FFFFFF&hide_border=true&" alt="nando-cezar"/>
 
-<p align="center"><b>Languages and Technologies</b></p>
+<p align="center"><b>Languages and Technologies</b></p> 
 
 <p align="center">
    
