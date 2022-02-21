@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 🚀    - Always looking to learn and develop new skills. <br>
 
 <summary><b>Stats and Languages Details</b></summary>
+<hr>
 <p align="center" margin-top="20px">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nando-cezar&theme=github_dark" alt="nando-cezar"/>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nando-cezar&theme=github_dark" alt="nando-cezar"/>
@@ -37,12 +38,14 @@ Here are some ideas to get you started:
 </p>
 
 <summary><b>Profile and Commits Details</b></summary>
-<p align="center" margin-top="20px">
+<hr>
+<p align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nando-cezar&theme=github_dark" alt="nando-cezar"/>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nando-cezar&theme=github_dark" alt="nando-cezar"/>
  </p>
 
 <summary><b>Contribution Graph</b></summary>
+<hr>
 <img src="https://activity-graph.herokuapp.com/graph?username=nando-cezar&bg_color=0d1117&color=848487&line=606063&point=FFFFFF&hide_border=true&" alt="nando-cezar"/>
 
 <p align="center"><b>Languages and Technologies</b></p> 
