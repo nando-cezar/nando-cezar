@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Snake animation](https://github.com/nando-cezar/nando-cezar/blob/output/github-contribution-grid-snake.svg)
+
 <details>
  <summary> <b> About me </b> <i>(click to expand!)</i> </summary> <br>
   
@@ -71,8 +74,6 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
  
 </p>
-
- ![Snake animation](https://github.com/nando-cezar/nando-cezar/blob/output/github-contribution-grid-snake.svg)
  
 <hr>
 <p align="center"><b> Author </b></p>
