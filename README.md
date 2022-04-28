@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<center>
 ![Snake animation](https://github.com/nando-cezar/nando-cezar/blob/output/github-contribution-grid-snake.svg)
+</center>
 
 <details>
  <summary> <b> About me </b> <i>(click to expand!)</i> </summary> <br>
