@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <hr>
 <p align="center"><b> Author </b></p>
 
-<p align="center"> Luís Fernando Cezar dos Santos </p>
+<p align="center"> Fernando </p>
 <hr>
 
 <p align="center"><b> Liked? Contact 😀</b></p>
