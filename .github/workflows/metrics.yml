@@ -69,12 +69,3 @@ jobs:
           plugin_leetcode_user: nando-cezar
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-
-      - name: Commit and Push Metrics
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "📈 Update GitHub metrics [skip ci]"
-          branch: metrics  # Specify the branch where metrics are stored
-          file_pattern: './metrics/**'  # Adjust the path based on where metrics are generated
-        env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
