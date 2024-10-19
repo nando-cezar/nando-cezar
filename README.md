@@ -1,7 +1,7 @@
-[![Alt text](github_banner.png)](https://www.youtube.com/@luisfernandocezardossantos4844 "YouTube Channel")
+[![Alt text](https://raw.githubusercontent.com/nando-cezar/repository-img/refs/heads/master/Gif_Title.gif)](https://www.youtube.com/@luisfernandocezardossantos4844 "YouTube Channel")
 
 <h1 align="center">Hi, I'm Luís F. C. Santos! 👋 </h1>
-<img align="right" src="https://raw.githubusercontent.com/nando-cezar/repository-img/master/Gif_Title.gif&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nando-cezar.visitor-badge&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<!--> SNACK
+![GitHub Snake](https://github.com/nando-cezar/nando-cezar/blob/output/github-contribution-grid-snake.svg) 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <!-- Left Column: Metrics -->
