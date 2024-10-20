@@ -43,28 +43,23 @@
             <a href="https://www.youtube.com/@luisfernandocezardossantos4844" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" alt="YouTube">
             </a>
-            <a href="https://www.instagram.com/nando.env/" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
-            </a>
         </p>
-        
-  <h3>✨ Fun Facts</h3>
-        <ul>
-            <li>I love Hackathons, Swimming and Tennis.</li>
-            <li>I’m on a journey to build a big house in Alaska!</li>
-            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
-        </ul>
         
   <h3>🧑‍💻 About Me</h3>
         <p>
-            I'm a passionate software developer with a strong background in cloud computing, game development, and full-stack web development. 
-            I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
-            in physical activities like swimming and judo, or planning my next adventure. 
+            As a passionate technology enthusiast, my professional objective is to become a comprehensive expert in systems development. My journey is driven by the aspiration to be a proficient full-stack developer, encompassing a broad spectrum of front-end, back-end, database, and version control technologies.
         </p>
         <p>
-            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
-            projects. I’m always eager to learn new things and share my knowledge with the community through my YouTube.
+        Throughout my career, I have honed my skills in various areas, including:
+          ✅Front-End Development: Expertise in Flutter, Javascript, HTML and CSS.
+          ✅Back-End Development: Skilled in JAVA, Javascript and Dart.
+          ✅Integration: Experienced with REST and SOAP APIs, Zipkin, and RabbitMQ.
+          ✅DevOps: Knowledgeable in Docker, Kubernetes, and version control with Git.
+          ✅Databases: Proficient in MySQL and PostgreSQL.
+          ✅Currently, I am working in software development on the PEGA Systems platform, where I engage daily with JAVA and JavaScript. My role allows me to leverage my diverse technical background to build robust and efficient solutions.
+        </p>
+        <p>
+        My dedication to continuous learning and my commitment to excellence drive me to stay updated with the latest industry trends and technologies. I am excited to contribute to innovative projects and collaborate with dynamic teams to create impactful software solutions. 
         </p>
     </div>
 </div>
